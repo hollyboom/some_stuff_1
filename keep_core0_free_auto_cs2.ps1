@@ -1,7 +1,7 @@
 # =========================================================================
 # 1. Fortare drepturi de Administrator (UAC Auto-Elevate)
 # powershell.exe -ExecutionPolicy Bypass -File "C:\Tools\keep_core0_free_auto_cs2.ps1"
-# evade INTEL-SA-00289 back to CVE-2019-11157 : ) Just4fun
+# Plundervolt evade INTEL-SA-00289 back to CVE-2019-11157 : ) Just4fun
 # Adaugare mod Volt2 0.945/0.946 pentru CPUID 0x306C3
 # =========================================================================
 $currentPrincipal = New-Object Security.Principal.WindowsPrincipal([Security.Principal.WindowsIdentity]::GetCurrent())
