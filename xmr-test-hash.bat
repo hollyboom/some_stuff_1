@@ -18,7 +18,7 @@ echo.
 
 
 @echo off
-xmrig.exe --donate-level 1 -o de.monero.herominers.com:1111 -u solo:42NKURwgNdudDbydr6LeZqJmjwYMBETxsLEmPKWTShhr3rPytZsaheq9T8XqHY11CRFD5Hoj4QNGN1K7yF7REHia4B5uY3F.my1+50000 -a rx/0 -k 
+xmrig.exe --donate-level 1 -o de.monero.herominers.com:1111 -u solo:42NKURwgNdudDbydr6LeZqJmjwYMBETxsLEmPKWTShhr3rPytZsaheq9T8XqHY11CRFD5Hoj4QNGN1K7yF7REHia4B5uY3F.my1 -a rx/0 -k 
 pause
 
 
