@@ -8,7 +8,7 @@ echo [+] Placa video (OpenCL) este DEZACTIVATA pentru eficienta CPU.
 echo [+] Hash rate trebuie sa fie peste 2150 H/s alfel Undervot
 echo [+] Ideal peste 2300 H/s
 echo [+] Undervolt maxim \0.940 res BSOD
-echo [+] Max 70ºC 41W cpu
+echo [+] Max 70ºC 42W cpu
 echo.
 
 :: --no-config opreste incarcarea fisierului JSON blocat
